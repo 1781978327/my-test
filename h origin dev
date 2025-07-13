@@ -1,0 +1,13 @@
+*   [33mcc1963f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m Merge branch 'feature/login' into dev
+[31m|[m[32m\[m  
+[31m|[m * [33ma85787f[m[33m ([m[1;32mfeature/login[m[33m)[m add login feature
+* [32m|[m [33m6bff709[m update in dev branch
+* [32m|[m [33m856705d[m update in dev branch
+[32m|[m[32m/[m  
+*   [33maf7b2a5[m[33m ([m[1;31morigin/dev[m[33m)[m 合并分支
+[33m|[m[34m\[m  
+[33m|[m * [33me5317fb[m[33m ([m[1;31morigin/new[m[33m, [m[1;32mnew[m[33m)[m 一个新的分支
+[33m|[m * [33mc5d66ab[m 新的分支”
+* [34m|[m [33mebb2c4e[m 新的cpp
+[34m|[m[34m/[m  
+* [33m24188e5[m first commit
